@@ -1,6 +1,6 @@
 # Stock Price & Technical Analysis Dashboard
 
-This is an interactive web dashboard built using Python, Dash, and Plotly which displays stock price through candlestick charts alongside technical indicators (SMA, RSI) for any ticker symbol.
+An interactive dashboard that pulls up live stock data as candlestick charts alongside technical indicators (SMA, RSI) for any ticker symbol.
 
 ## Features
 - Live stock data via Yahoo Finance (yfinance)
